@@ -1,4 +1,4 @@
-# Coffee-Sales---Excel
+# Coffee-Sales
 
 - Data Cleaning
 - pivots
