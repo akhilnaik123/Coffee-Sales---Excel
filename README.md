@@ -1,8 +1,13 @@
 # Coffee-Sales
 
-- Data Cleaning
-- pivots
-- Data Visualisation
 
+Data Refinement:
+- Conducted thorough data cleaning procedures.
+Pivoting Analysis:
+- Employed pivot techniques for insightful data restructuring.
+Visual Representation:
+- Created compelling data visualizations.
 
- The Objective of this Project was to Analyse The Total Sales Over Time By Country, Customers - Using Roast Type, Loyality Card as Filters
+Project Objective:
+- Analyzed total sales trends over time by country and customers.
+  Applied filters based on roast type and loyalty card status for a nuanced perspective.
